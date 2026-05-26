@@ -6,6 +6,7 @@ Then somehow you flash it to the board?  https://docs.slicemk.com/firmware/zmk/w
 
 
 
+
 This repository contains the default ZMK user configuration for the
 [ErgoDox Wireless](https://www.slicemk.com/pages/ergodox-wireless) keyboard.
 While the
