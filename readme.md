@@ -1,3 +1,11 @@
+pull the repo, make a change (likely to `m_password`), then git push.  it'll build via GH actions.
+
+Then somehow you flash it to the board?  https://docs.slicemk.com/firmware/zmk/wireless/guide/#peripheral-flashing
+- I think you hold the dongle button while plugging in, then drop the uf2 file in it.
+
+
+
+
 This repository contains the default ZMK user configuration for the
 [ErgoDox Wireless](https://www.slicemk.com/pages/ergodox-wireless) keyboard.
 While the
